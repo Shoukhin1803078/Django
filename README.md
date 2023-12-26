@@ -49,3 +49,4 @@ December 26, 2023 - 13:37:03
 Django version 5.0, using settings 'first.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
+![Screenshot 2023-12-26 135902](https://github.com/Shoukhin1803078/Django/assets/62458402/f4640775-d381-44f0-aa3f-c1663eb6c52b)
